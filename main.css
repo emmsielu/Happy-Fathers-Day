@@ -1,0 +1,65 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+body{
+  color: white;
+  background-image: url("images/dad-and-us.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 100%;
+
+}
+
+header{
+  border: 5px solid white;
+  margin: 2% 5%;
+  text-align: center;
+  padding: 2% 1%;
+  width: 40vw;
+
+}
+
+
+h1{
+
+  font-size: 4.5em;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 800;
+  line-height: 1;
+
+}
+
+h2{
+  font-size: 3em;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-weight: 400;
+  padding-top: 25px;
+  line-height: 1.2;
+
+}
+
+p{
+  padding-top: 3%;
+  font-weight:400;
+
+}
+
+span{
+  display: block;
+
+}
+
+img{
+  max-width: 5%;
+  margin: 50px 10px 20px 10px;
+
+}
